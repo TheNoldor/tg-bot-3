@@ -15,30 +15,30 @@ TOKEN = '7721446505:AAEE0n__Qe-gLRCSqTJZfryc6R4b4I5UK_M'
 PROVIDER_TOKEN = 'YOUR_PROVIDER_TOKEN'  # Отримати у @BotFather → /setpayment
 
 # === Google Sheets ===
-SPREADSHEET_ID = '1bMq4510saWiSeLfz-j9NINkHwATVrgBGuWL2EtPa4MU'  # ID таблиці (з URL)
+# SPREADSHEET_ID = '1bMq4510saWiSeLfz-j9NINkHwATVrgBGuWL2EtPa4MU'  # ID таблиці (з URL)
 
 INSTAGRAM_SESSIONID = '75681169834%3AFrxQy5b0jXmB69%3A28%3AAYd_3_K_B2YFi7jNbWO_RgFNAJBr7xPkwYYd03X2WA'
-SERVICE_ACCOUNT_INFO = {
-  "type": "service_account",
-  "project_id": "tg-prem-bot",
-  "private_key_id": "317f2a4a6baec86070c10a3fc7791477c8c908e1",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQCtF4mY9IXKFh\ncVWHFTFtQT1rJ6tdCwsy/uSAvgMiTpxWjWH4hLD8rjqYg9wVqlxlxmRzTO4gD8M+\n5vOepNkDt9ouXvjws3Hd7K4iOLtUKsimuKDw71AZrC7ZmOQyPGzP3lQkGTw5+he8\nRSjSvPD2XHn8OMDl9lStztjj8PAmjVLZNARCRQeLwiT/LuPoaB6xeK0QAxE10Xih\nZJ6eWxthsCv9O/Hk1UwDBPUKM5dsotYBR+ugtT3bmkxD/i3Qpgv1cfApqXjEuJQM\njQxGzQCyB1ucWZY0z4DxqBlf+wL7ktRllz0POiHqLMzYAySmBSioZD6J7zI7U7U3\nlMN0d/LZAgMBAAECggEAQikV6cTusRgK8Az0ceVkHIC4yz0fUs89x6CYKCIeomVl\nHcQ22cVo3cbRFziJoFHturmTbfpJ7eQPlBbUk2u4WiLaTi5FPZnOlVae7Q0Nzi0Q\nmLN5CPGC4yfZJQ0603A5soi2MRZ+OUsMF+fURmeObjovtZAD2hx47JRzvs7uH2Zd\ntQE1sekzjHH1uvqfG7z7cf0aXQpK6FHADdrW6MvdKge37zLAjJoVdjukjmqSfkjL\n2cRGCiOWbxwyXOioZZHsEocs8kk3yi+isgMeYwPgWMaRAAltwxS3krB/hTAchEOp\nYvcvp4fs6eu6zCxxyZLzVmBF/8b+t1wQ7RxA4p0ceQKBgQDIXjUC+qJ5TKAjhwvs\n/hJ4u8ByThTzMjEKAbsCEywFlUynTQOIr3A2sNTyqd125+z9I0HeFZYQZJwrETRo\n44Eogsi1I9tg9O4CcLTBStdy0zKSwLzh3IKmq4AxUeHzKwqmMYIb0XQ4NDdxNukK\nKC0zTULNafyYRgZ8fftRNSvCdwKBgQC4CRSD5e246GRWtaeQjZoDhGbw+NQ/S5Xi\nKwZ9gXLDflg948kKDLRPVeLVXtR+tL/UhnYKbWS9JkfITQHRu2hU4EFhCsDTUnmd\nwY4Y0vLa7pLX3xy/qyEQ+sFOsGY7vsXxShqnBtaPkLQfeEmGQmiPTwYN8iJotvDL\nCsFqxeN5LwKBgDkWHiRrJD9LBZUZtNwgx0J+u6XVeUKQ2kfvlkhRDgnJL726w3b+\nBQqP9xvsKZznFy5IDUwo+khRYe0jSbtYlkPkfyqcvLQzFFy9n8IygI/GfHIzV51C\nJjc2RZ/HpIiTisUu9dLXKjWZKvKmol6yc65aJN5BhCYeTVrKyf+pFn6hAoGAfPPl\nUvy9YEuhPOJPqC0MghDWmAxKh8M5O/t8h6BpnGRfY34SVNl1X1xwC/E8E9+DU7gL\n016dBHRGTrBCaPV2jBJLMalMbO7VlhAB+8bWj2FmoF1jNpvpco7eyx+n+i64VPC8\nkeVprsZQFgHk4dybA5pjAPsC89gqO6HM20MLBI8CgYAym+u6QaRgWwGiq9C9eUXe\nOk/iyTz4mhTFOvsydquTSZ5U7Zy9H/Xw19Y1KYT/vSzy1epZYf9p9EoPzKI1OlOr\n9fRHBvllwiyBkcbtIFi7uWdFisfEL/2ftQ45phkDVdwmJ+GcQCzltmwnIZP+DCgx\n7qz26UBzad5BemT0+GZVBg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "editor@tg-prem-bot.iam.gserviceaccount.com",
-  "client_id": "108474960811429249270",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40tg-prem-bot.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+# SERVICE_ACCOUNT_INFO = {
+#   "type": "service_account",
+#   "project_id": "tg-prem-bot",
+#   "private_key_id": "317f2a4a6baec86070c10a3fc7791477c8c908e1",
+#   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQCtF4mY9IXKFh\ncVWHFTFtQT1rJ6tdCwsy/uSAvgMiTpxWjWH4hLD8rjqYg9wVqlxlxmRzTO4gD8M+\n5vOepNkDt9ouXvjws3Hd7K4iOLtUKsimuKDw71AZrC7ZmOQyPGzP3lQkGTw5+he8\nRSjSvPD2XHn8OMDl9lStztjj8PAmjVLZNARCRQeLwiT/LuPoaB6xeK0QAxE10Xih\nZJ6eWxthsCv9O/Hk1UwDBPUKM5dsotYBR+ugtT3bmkxD/i3Qpgv1cfApqXjEuJQM\njQxGzQCyB1ucWZY0z4DxqBlf+wL7ktRllz0POiHqLMzYAySmBSioZD6J7zI7U7U3\nlMN0d/LZAgMBAAECggEAQikV6cTusRgK8Az0ceVkHIC4yz0fUs89x6CYKCIeomVl\nHcQ22cVo3cbRFziJoFHturmTbfpJ7eQPlBbUk2u4WiLaTi5FPZnOlVae7Q0Nzi0Q\nmLN5CPGC4yfZJQ0603A5soi2MRZ+OUsMF+fURmeObjovtZAD2hx47JRzvs7uH2Zd\ntQE1sekzjHH1uvqfG7z7cf0aXQpK6FHADdrW6MvdKge37zLAjJoVdjukjmqSfkjL\n2cRGCiOWbxwyXOioZZHsEocs8kk3yi+isgMeYwPgWMaRAAltwxS3krB/hTAchEOp\nYvcvp4fs6eu6zCxxyZLzVmBF/8b+t1wQ7RxA4p0ceQKBgQDIXjUC+qJ5TKAjhwvs\n/hJ4u8ByThTzMjEKAbsCEywFlUynTQOIr3A2sNTyqd125+z9I0HeFZYQZJwrETRo\n44Eogsi1I9tg9O4CcLTBStdy0zKSwLzh3IKmq4AxUeHzKwqmMYIb0XQ4NDdxNukK\nKC0zTULNafyYRgZ8fftRNSvCdwKBgQC4CRSD5e246GRWtaeQjZoDhGbw+NQ/S5Xi\nKwZ9gXLDflg948kKDLRPVeLVXtR+tL/UhnYKbWS9JkfITQHRu2hU4EFhCsDTUnmd\nwY4Y0vLa7pLX3xy/qyEQ+sFOsGY7vsXxShqnBtaPkLQfeEmGQmiPTwYN8iJotvDL\nCsFqxeN5LwKBgDkWHiRrJD9LBZUZtNwgx0J+u6XVeUKQ2kfvlkhRDgnJL726w3b+\nBQqP9xvsKZznFy5IDUwo+khRYe0jSbtYlkPkfyqcvLQzFFy9n8IygI/GfHIzV51C\nJjc2RZ/HpIiTisUu9dLXKjWZKvKmol6yc65aJN5BhCYeTVrKyf+pFn6hAoGAfPPl\nUvy9YEuhPOJPqC0MghDWmAxKh8M5O/t8h6BpnGRfY34SVNl1X1xwC/E8E9+DU7gL\n016dBHRGTrBCaPV2jBJLMalMbO7VlhAB+8bWj2FmoF1jNpvpco7eyx+n+i64VPC8\nkeVprsZQFgHk4dybA5pjAPsC89gqO6HM20MLBI8CgYAym+u6QaRgWwGiq9C9eUXe\nOk/iyTz4mhTFOvsydquTSZ5U7Zy9H/Xw19Y1KYT/vSzy1epZYf9p9EoPzKI1OlOr\n9fRHBvllwiyBkcbtIFi7uWdFisfEL/2ftQ45phkDVdwmJ+GcQCzltmwnIZP+DCgx\n7qz26UBzad5BemT0+GZVBg==\n-----END PRIVATE KEY-----\n",
+#   "client_email": "editor@tg-prem-bot.iam.gserviceaccount.com",
+#   "client_id": "108474960811429249270",
+#   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+#   "token_uri": "https://oauth2.googleapis.com/token",
+#   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+#   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40tg-prem-bot.iam.gserviceaccount.com",
+#   "universe_domain": "googleapis.com"
+# }
 
-# Авторизація та підключення до таблиці
-credentials = Credentials.from_service_account_info(
-    SERVICE_ACCOUNT_INFO,
-    scopes=["https://www.googleapis.com/auth/spreadsheets"]
-)
-gc = gspread.authorize(credentials)
-sheet = gc.open_by_key(SPREADSHEET_ID).sheet1
+# # Авторизація та підключення до таблиці
+# credentials = Credentials.from_service_account_info(
+#     SERVICE_ACCOUNT_INFO,
+#     scopes=["https://www.googleapis.com/auth/spreadsheets"]
+# )
+# gc = gspread.authorize(credentials)
+# sheet = gc.open_by_key(SPREADSHEET_ID).sheet1
 
 # ======
 
@@ -46,27 +46,27 @@ bot = telebot.TeleBot(TOKEN)
 
 def is_premium(user_id):
     # Перевіряємо чи є користувач у Google Sheets і чи підписка активна
-    records = sheet.get_all_records()
-    now = datetime.datetime.utcnow()
-    for rec in records:
-        if int(rec['user_id']) == user_id:
-            paid_date = datetime.datetime.strptime(rec['date'], "%Y-%m-%d")
-            if (now - paid_date).days < 30:
-                return True
+    # records = sheet.get_all_records()
+    # now = datetime.datetime.utcnow()
+    # for rec in records:
+    #     if int(rec['user_id']) == user_id:
+    #         paid_date = datetime.datetime.strptime(rec['date'], "%Y-%m-%d")
+    #         if (now - paid_date).days < 30:
+    #             return True
     return False
 
-def add_premium(user_id):
-    # Додаємо або оновлюємо дату підписки для користувача
-    records = sheet.get_all_records()
-    now_str = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+# def add_premium(user_id):
+#     # Додаємо або оновлюємо дату підписки для користувача
+#     records = sheet.get_all_records()
+#     now_str = datetime.datetime.utcnow().strftime("%Y-%m-%d")
 
-    for idx, rec in enumerate(records, start=2):  # Починаючи з другого рядка (перший — заголовок)
-        if int(rec['user_id']) == user_id:
-            sheet.update_cell(idx, 2, now_str)  # Оновити дату
-            return
-    # Якщо немає користувача — додаємо новий рядок
-    sheet.append_row([user_id, now_str])
-    # --- Весь ваш код бота нижче (обробка команд, завантаження відео, оплати) ---
+#     for idx, rec in enumerate(records, start=2):  # Починаючи з другого рядка (перший — заголовок)
+#         if int(rec['user_id']) == user_id:
+#             sheet.update_cell(idx, 2, now_str)  # Оновити дату
+#             return
+#     # Якщо немає користувача — додаємо новий рядок
+#     sheet.append_row([user_id, now_str])
+#     # --- Весь ваш код бота нижче (обробка команд, завантаження відео, оплати) ---
 
 @bot.message_handler(commands=['start'])
 def welcome(message):
@@ -90,9 +90,31 @@ def handle_link(message):
     else:
         bot.reply_to(message, "❗️ Непідтримуване посилання.")
 
+# def download_youtube(message, url, is_premium_user):
+#     quality = "best[height<=720]" if not is_premium_user else "bestvideo+bestaudio"
+#     note = "📥 Завантажую 720p..." if not is_premium_user else "📥 Завантажую FullHD..."
+
+#     bot.send_message(message.chat.id, note)
+#     filename = f"yt_{message.chat.id}.mp4"
+#     command = ["yt-dlp", "-f", quality, "-o", filename, url]
+
+#     try:
+#         subprocess.run(command, check=True)
+
+#         with open(filename, "rb") as video:
+#             markup = None
+#             if not is_premium_user:
+#                 markup = InlineKeyboardMarkup()
+#                 markup.add(InlineKeyboardButton("💎 Отримати HD", callback_data="get_premium"))
+#             bot.send_video(message.chat.id, video, reply_markup=markup)
+
+#         os.remove(filename)
+
+#     except Exception as e:
+#         bot.send_message(message.chat.id, f"❌ Помилка: {e}")
 def download_youtube(message, url, is_premium_user):
-    quality = "best[height<=720]" if not is_premium_user else "bestvideo+bestaudio"
-    note = "📥 Завантажую 720p..." if not is_premium_user else "📥 Завантажую FullHD..."
+    quality = "best[height<=720]"  # тільки 720p
+    note = "📥 Завантажую 720p..."
 
     bot.send_message(message.chat.id, note)
     filename = f"yt_{message.chat.id}.mp4"
@@ -100,16 +122,9 @@ def download_youtube(message, url, is_premium_user):
 
     try:
         subprocess.run(command, check=True)
-
         with open(filename, "rb") as video:
-            markup = None
-            if not is_premium_user:
-                markup = InlineKeyboardMarkup()
-                markup.add(InlineKeyboardButton("💎 Отримати HD", callback_data="get_premium"))
-            bot.send_video(message.chat.id, video, reply_markup=markup)
-
+            bot.send_video(message.chat.id, video)
         os.remove(filename)
-
     except Exception as e:
         bot.send_message(message.chat.id, f"❌ Помилка: {e}")
 
@@ -153,8 +168,8 @@ def send_external_video(chat_id, url):
         with open("temp.mp4", "wb") as f:
             f.write(video.content)
         with open("temp.mp4", "rb") as f:
-            markup = InlineKeyboardMarkup()
-            markup.add(InlineKeyboardButton("💎 Отримати HD", callback_data="get_premium"))
+            # markup = InlineKeyboardMarkup()
+            # markup.add(InlineKeyboardButton("💎 Отримати HD", callback_data="get_premium"))
             bot.send_video(chat_id, f, reply_markup=markup)
         os.remove("temp.mp4")
     except:
