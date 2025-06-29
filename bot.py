@@ -40,6 +40,8 @@ credentials = Credentials.from_service_account_info(
 gc = gspread.authorize(credentials)
 sheet = gc.open_by_key(SPREADSHEET_ID).sheet1
 
+# ======
+
 bot = telebot.TeleBot(TOKEN)
 
 def is_premium(user_id):
