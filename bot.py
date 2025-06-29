@@ -18,19 +18,19 @@ PROVIDER_TOKEN = 'YOUR_PROVIDER_TOKEN'  # Отримати у @BotFather → /se
 SPREADSHEET_ID = '1bMq4510saWiSeLfz-j9NINkHwATVrgBGuWL2EtPa4MU'  # ID таблиці (з URL)
 
 INSTAGRAM_SESSIONID = '75681169834%3AFrxQy5b0jXmB69%3A28%3AAYd_3_K_B2YFi7jNbWO_RgFNAJBr7xPkwYYd03X2WA'
-# SERVICE_ACCOUNT_INFO = {
-#   "type": "service_account",
-#   "project_id": "tg-prem-bot",
-#   "private_key_id": "317f2a4a6baec86070c10a3fc7791477c8c908e1",
-#   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQCtF4mY9IXKFh\ncVWHFTFtQT1rJ6tdCwsy/uSAvgMiTpxWjWH4hLD8rjqYg9wVqlxlxmRzTO4gD8M+\n5vOepNkDt9ouXvjws3Hd7K4iOLtUKsimuKDw71AZrC7ZmOQyPGzP3lQkGTw5+he8\nRSjSvPD2XHn8OMDl9lStztjj8PAmjVLZNARCRQeLwiT/LuPoaB6xeK0QAxE10Xih\nZJ6eWxthsCv9O/Hk1UwDBPUKM5dsotYBR+ugtT3bmkxD/i3Qpgv1cfApqXjEuJQM\njQxGzQCyB1ucWZY0z4DxqBlf+wL7ktRllz0POiHqLMzYAySmBSioZD6J7zI7U7U3\nlMN0d/LZAgMBAAECggEAQikV6cTusRgK8Az0ceVkHIC4yz0fUs89x6CYKCIeomVl\nHcQ22cVo3cbRFziJoFHturmTbfpJ7eQPlBbUk2u4WiLaTi5FPZnOlVae7Q0Nzi0Q\nmLN5CPGC4yfZJQ0603A5soi2MRZ+OUsMF+fURmeObjovtZAD2hx47JRzvs7uH2Zd\ntQE1sekzjHH1uvqfG7z7cf0aXQpK6FHADdrW6MvdKge37zLAjJoVdjukjmqSfkjL\n2cRGCiOWbxwyXOioZZHsEocs8kk3yi+isgMeYwPgWMaRAAltwxS3krB/hTAchEOp\nYvcvp4fs6eu6zCxxyZLzVmBF/8b+t1wQ7RxA4p0ceQKBgQDIXjUC+qJ5TKAjhwvs\n/hJ4u8ByThTzMjEKAbsCEywFlUynTQOIr3A2sNTyqd125+z9I0HeFZYQZJwrETRo\n44Eogsi1I9tg9O4CcLTBStdy0zKSwLzh3IKmq4AxUeHzKwqmMYIb0XQ4NDdxNukK\nKC0zTULNafyYRgZ8fftRNSvCdwKBgQC4CRSD5e246GRWtaeQjZoDhGbw+NQ/S5Xi\nKwZ9gXLDflg948kKDLRPVeLVXtR+tL/UhnYKbWS9JkfITQHRu2hU4EFhCsDTUnmd\nwY4Y0vLa7pLX3xy/qyEQ+sFOsGY7vsXxShqnBtaPkLQfeEmGQmiPTwYN8iJotvDL\nCsFqxeN5LwKBgDkWHiRrJD9LBZUZtNwgx0J+u6XVeUKQ2kfvlkhRDgnJL726w3b+\nBQqP9xvsKZznFy5IDUwo+khRYe0jSbtYlkPkfyqcvLQzFFy9n8IygI/GfHIzV51C\nJjc2RZ/HpIiTisUu9dLXKjWZKvKmol6yc65aJN5BhCYeTVrKyf+pFn6hAoGAfPPl\nUvy9YEuhPOJPqC0MghDWmAxKh8M5O/t8h6BpnGRfY34SVNl1X1xwC/E8E9+DU7gL\n016dBHRGTrBCaPV2jBJLMalMbO7VlhAB+8bWj2FmoF1jNpvpco7eyx+n+i64VPC8\nkeVprsZQFgHk4dybA5pjAPsC89gqO6HM20MLBI8CgYAym+u6QaRgWwGiq9C9eUXe\nOk/iyTz4mhTFOvsydquTSZ5U7Zy9H/Xw19Y1KYT/vSzy1epZYf9p9EoPzKI1OlOr\n9fRHBvllwiyBkcbtIFi7uWdFisfEL/2ftQ45phkDVdwmJ+GcQCzltmwnIZP+DCgx\n7qz26UBzad5BemT0+GZVBg==\n-----END PRIVATE KEY-----\n",
-#   "client_email": "editor@tg-prem-bot.iam.gserviceaccount.com",
-#   "client_id": "108474960811429249270",
-#   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-#   "token_uri": "https://oauth2.googleapis.com/token",
-#   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-#   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40tg-prem-bot.iam.gserviceaccount.com",
-#   "universe_domain": "googleapis.com"
-# }
+SERVICE_ACCOUNT_INFO = {
+  "type": "service_account",
+  "project_id": "tg-prem-bot",
+  "private_key_id": "317f2a4a6baec86070c10a3fc7791477c8c908e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQCtF4mY9IXKFh\ncVWHFTFtQT1rJ6tdCwsy/uSAvgMiTpxWjWH4hLD8rjqYg9wVqlxlxmRzTO4gD8M+\n5vOepNkDt9ouXvjws3Hd7K4iOLtUKsimuKDw71AZrC7ZmOQyPGzP3lQkGTw5+he8\nRSjSvPD2XHn8OMDl9lStztjj8PAmjVLZNARCRQeLwiT/LuPoaB6xeK0QAxE10Xih\nZJ6eWxthsCv9O/Hk1UwDBPUKM5dsotYBR+ugtT3bmkxD/i3Qpgv1cfApqXjEuJQM\njQxGzQCyB1ucWZY0z4DxqBlf+wL7ktRllz0POiHqLMzYAySmBSioZD6J7zI7U7U3\nlMN0d/LZAgMBAAECggEAQikV6cTusRgK8Az0ceVkHIC4yz0fUs89x6CYKCIeomVl\nHcQ22cVo3cbRFziJoFHturmTbfpJ7eQPlBbUk2u4WiLaTi5FPZnOlVae7Q0Nzi0Q\nmLN5CPGC4yfZJQ0603A5soi2MRZ+OUsMF+fURmeObjovtZAD2hx47JRzvs7uH2Zd\ntQE1sekzjHH1uvqfG7z7cf0aXQpK6FHADdrW6MvdKge37zLAjJoVdjukjmqSfkjL\n2cRGCiOWbxwyXOioZZHsEocs8kk3yi+isgMeYwPgWMaRAAltwxS3krB/hTAchEOp\nYvcvp4fs6eu6zCxxyZLzVmBF/8b+t1wQ7RxA4p0ceQKBgQDIXjUC+qJ5TKAjhwvs\n/hJ4u8ByThTzMjEKAbsCEywFlUynTQOIr3A2sNTyqd125+z9I0HeFZYQZJwrETRo\n44Eogsi1I9tg9O4CcLTBStdy0zKSwLzh3IKmq4AxUeHzKwqmMYIb0XQ4NDdxNukK\nKC0zTULNafyYRgZ8fftRNSvCdwKBgQC4CRSD5e246GRWtaeQjZoDhGbw+NQ/S5Xi\nKwZ9gXLDflg948kKDLRPVeLVXtR+tL/UhnYKbWS9JkfITQHRu2hU4EFhCsDTUnmd\nwY4Y0vLa7pLX3xy/qyEQ+sFOsGY7vsXxShqnBtaPkLQfeEmGQmiPTwYN8iJotvDL\nCsFqxeN5LwKBgDkWHiRrJD9LBZUZtNwgx0J+u6XVeUKQ2kfvlkhRDgnJL726w3b+\nBQqP9xvsKZznFy5IDUwo+khRYe0jSbtYlkPkfyqcvLQzFFy9n8IygI/GfHIzV51C\nJjc2RZ/HpIiTisUu9dLXKjWZKvKmol6yc65aJN5BhCYeTVrKyf+pFn6hAoGAfPPl\nUvy9YEuhPOJPqC0MghDWmAxKh8M5O/t8h6BpnGRfY34SVNl1X1xwC/E8E9+DU7gL\n016dBHRGTrBCaPV2jBJLMalMbO7VlhAB+8bWj2FmoF1jNpvpco7eyx+n+i64VPC8\nkeVprsZQFgHk4dybA5pjAPsC89gqO6HM20MLBI8CgYAym+u6QaRgWwGiq9C9eUXe\nOk/iyTz4mhTFOvsydquTSZ5U7Zy9H/Xw19Y1KYT/vSzy1epZYf9p9EoPzKI1OlOr\n9fRHBvllwiyBkcbtIFi7uWdFisfEL/2ftQ45phkDVdwmJ+GcQCzltmwnIZP+DCgx\n7qz26UBzad5BemT0+GZVBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "editor@tg-prem-bot.iam.gserviceaccount.com",
+  "client_id": "108474960811429249270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40tg-prem-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
 
 # Авторизація та підключення до таблиці
 credentials = Credentials.from_service_account_info(
